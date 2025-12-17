@@ -1,2 +1,2 @@
 # care-management
-Hospital Management Syste
+Hospital Management System
